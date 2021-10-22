@@ -4,4 +4,4 @@ cokolwiek
 cos
 papaj
 dlaczego?
-2115
+merge

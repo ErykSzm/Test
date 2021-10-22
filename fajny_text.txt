@@ -4,4 +4,3 @@ cokolwiek
 cos
 papaj
 dlaczego?
-merge
